@@ -1,5 +1,3 @@
-#![allow(unused, dead_code)]
-
 use rusty::{search, search_case_insensitive};
 use std::{env, error::Error, fs, process};
 
